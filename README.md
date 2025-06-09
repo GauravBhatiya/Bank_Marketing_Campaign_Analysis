@@ -43,7 +43,7 @@ We performed an in-depth analysis using SQL-based queries to answer key question
 
 ## Results
 
-###1️⃣ Customer & Financial Analysis
+### 1️⃣ Customer & Financial Analysis
 - **Job & Income Impact**:
   - Customers in **Management & Technician roles** have the highest subscription rates.
   - Housemaids and unemployed individuals have the lowest conversion rates.
